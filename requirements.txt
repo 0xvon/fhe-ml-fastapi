@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+concrete-ml==1.4.1
+torch==1.13.1
+typing-extensions==4.5.0
+torchvision
+pandas
+numpy
+matplotlib
+sklearn
